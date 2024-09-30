@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/varlet2#readme",
+  "homepage": "https://github.com/common-intellisense/varlet#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/varlet2.git"
+    "url": "git+https://github.com/common-intellisense/varlet.git"
   },
-  "bugs": "https://github.com/common-intellisense/varlet2/issues",
+  "bugs": "https://github.com/common-intellisense/varlet/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
